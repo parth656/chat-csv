@@ -1,0 +1,9 @@
+langchain==0.0.279
+pandas==2.0.3
+streamlit==1.26.0
+openai
+tiktoken
+chromadb
+langchain
+unstructured
+unstructured[local-inference]
