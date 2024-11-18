@@ -9,7 +9,7 @@ ChatCSV is a user-friendly web application that utilizes OpenAI's GPT-3 language
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Getting Started
 
@@ -98,22 +98,5 @@ The ChatCSV application should now be running locally and accessible in your web
 
 5. Download the generated CSV file by clicking the provided link.
 
-## Contributing
-
-We welcome contributions to improve ChatCSV. To contribute, follow these steps:
-
-1. Fork the repository on GitHub.
-
-2. Clone your forked repository to your local machine.
-
-3. Create a new branch for your feature or bug fix.
-
-4. Make your changes and commit them with descriptive commit messages.
-
-5. Push your changes to your forked repository on GitHub.
-
-6. Create a pull request to the main ChatCSV repository.
-
-We appreciate your contributions!
 
 ---
